@@ -1,3 +1,4 @@
 # Medical Data Visualizer
 
-This project uses Python to visualize medical examination data, helping to analyze and understand health trends.
+This Python project utilizes data science libraries to visualize medical examination data, providing insights into health trends.
+
